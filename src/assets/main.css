@@ -1,0 +1,43 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-weight: normal;
+}
+
+h1 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:xx-large;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 110px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #fc4fb7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 50px;
+}
+
+button:hover {
+  background-color: #db58a2;
+}
+
+p{
+  font-size:larger;
+}
+
+
